@@ -14,8 +14,8 @@ module BitPay
   CA_FILE = File.join File.dirname(__FILE__), 'bitpay','cacert.pem'
 
   # Location of API
-  API_URI = 'https://bitpay.com'
-  TEST_API_URI = 'https://test.bitpay.com'
+  API_URI = 'https://globee.com'
+  TEST_API_URI = 'https://test.globee.com'
   CLIENT_REGISTRATION_PATH = '/api-access-request'
   
 
